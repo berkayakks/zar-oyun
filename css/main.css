@@ -1,0 +1,47 @@
+#zarlar{
+	width: 402px;
+	height: 201px;
+	border: 3px solir red;
+	
+	margin: 0 auto;
+	padding: 0;
+
+}
+#zar1{
+	
+	float: left;
+	margin-left: 3px;
+	width: 201px;
+	height: 201px;
+	margin: 0;
+}
+#zar2{
+	
+	float: left;
+	margin-left: 3px;
+	width: 201px;
+	height: 201px;
+	margin: 0;
+}
+#zar-at{
+	background-color: #333;
+	width: 201px;	
+	position: relative;
+	left: 100.5px;
+	padding: 20px;
+	color: white;
+
+}
+#sonuc{
+	background-color: #333;
+	width: 70px;
+	height: 30px;
+	position: relative;
+	padding: 10px;
+	text-align: center;
+	left: 150px;
+	color: white;
+}
+body{
+	background-color:  #99ff99;
+}
